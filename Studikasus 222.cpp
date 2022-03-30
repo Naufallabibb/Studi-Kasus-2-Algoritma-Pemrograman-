@@ -120,6 +120,5 @@ int main()
 	if (pembelian=='y'||pembelian=='Y')
 	goto atas;
 	else
-	
 	return 0;
 }
